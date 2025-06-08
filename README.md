@@ -31,3 +31,4 @@ The **Resume Ranking System** is an AI-driven tool designed to simplify and opti
 4. **View ranked resumes** with match scores & AI suggestions
 
 🚀 **Transform your hiring process with AI-powered resume ranking!**
+**.**
